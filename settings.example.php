@@ -1,0 +1,5 @@
+<?php
+$emailUserName = "";
+$emailPassword = "";
+$mailserver = "";
+?>
